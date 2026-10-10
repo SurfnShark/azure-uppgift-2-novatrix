@@ -1,0 +1,5 @@
+v35/config.local.sh
+v35/evidence/
+**/.env
+**/*.secret
+**/__pycache__/
